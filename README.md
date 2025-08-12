@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Arijit-mondal099/techmintlab-clone.git
 cd techmintlab-clone
 
 npm install
